@@ -5,7 +5,7 @@
 
 	<groupId>dk.mwl</groupId>
 	<artifactId>clouddemo</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.1</version>
 	<packaging>jar</packaging>
 
 	<name>clouddemo</name>
